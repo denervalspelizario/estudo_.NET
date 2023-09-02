@@ -8,6 +8,32 @@ namespace ExemploExplorando.models
 {
     public class Curso
     {
+        // propriedades
         public string Nome { get; set; }
+        public List<Pessoa> Alunos {get; set;} // classe Pessoa tipo list chamada Alunos
+
+        // metodos
+        public void AdicionarAluno(Pessoa aluno) // esta sintaxe o public é opcional sem ele também funciona                                                 
+        {                                        // o paramtro é uma classe(Pessoa) que é uma list  chamada aluno    
+          Alunos.Add(aluno);// adicionando a list      
+        }
+        public int ObterQuantidadeAlunoMatriculados()
+        {
+            int quantidade = Alunos.Count;  // quantidade de dados na classe list Alunos   
+            return quantidade; // retornando a variavel
+        }
+
+        public void RemoverAluno(Pessoa aluno) // esta sintaxe o public é opcional sem ele também funciona                                                 
+        {                                        // o paramtro é uma classe(Pessoa) que é uma list  chamada aluno    
+          Alunos.Remove(aluno);// removendo da list      
+        }
+
+        public void ListarAlunos() // metodo que lista alunos do tipo void
+        {
+            foreach (Pessoa aluno in Alunos) // laço de repeticao pega todos os dados da list Alunos e joga na list aluno
+            {
+                Console.WriteLine(aluno.NomeCompleto); // imprimindo todos os alunos com nome completo
+            }
+        }
     }
 }

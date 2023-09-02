@@ -7,6 +7,18 @@ namespace ExemploExplorando.models
 {
     public class Pessoa
     { 
+        // Construtores
+        
+        public Pessoa(string nome, string sobrenome) // o construtor tem que ter o mesmo nome da classe
+        {
+            Nome = nome;  // Nome proprieda, nome variavek do parametro
+            Sobrenome = sobrenome;
+        }
+        public Pessoa() // 
+        {
+
+        }
+
         // propriedades ou atributos
         private string _nome; // atributos privados
         private int _idade;
