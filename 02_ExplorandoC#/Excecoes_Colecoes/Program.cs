@@ -94,6 +94,40 @@ Console.WriteLine("Trabalhando com Dictionary");
 
 // dictionary é uma coleção de dados
 Dictionary<string, string> estados = new Dictionary<string, string>(); // criando um Dictionary com a chave tipo string e meu dado tipo string também
-estados.Add("SP", "São Paulo"); // estou adicionando a chave SP que será representado pelo valor "São Paulo"
+estados.Add("SP", "São Paulo"); // estou adicionando a chave SP que será representado pelo valor "São Paulo", lembrando que a chave deve ser UNICA senão da erro e retorna uma exceção
 estados.Add("BA", "Bahia"); 
 estados.Add("MG", "Minas Gerais"); 
+
+foreach (var item in estados)
+{
+  Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
+
+Console.WriteLine();
+// Removendo valores
+estados.Remove("BA"); // vc passa a chave e atraves dela vc remove o valor Bahia
+estados["SP"] = "São Paulo - valor alterado"; // alterando valor de São paulo atraves da chave SP
+
+foreach (var item in estados)
+{
+  Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
+
+Console.WriteLine();
+
+string chave = "BA";
+Console.WriteLine($"Verificando o elemento: {chave}");
+
+if(estados.ContainsKey(chave)) //ContainsKey retorna um true ou false se ecxiste ou não a chave no caso BA que foi excluida logo gerou um false
+{
+  Console.WriteLine($"Valor existente: {chave}");
+}
+else 
+{
+  Console.WriteLine($"Valor não existe. É seguro adicionar a chave: {chave}");
+}
+
+System.Console.WriteLine();
+System.Console.WriteLine("Acessando um valor");
+
+System.Console.WriteLine(estados["MG"]); // Minas Gerais
