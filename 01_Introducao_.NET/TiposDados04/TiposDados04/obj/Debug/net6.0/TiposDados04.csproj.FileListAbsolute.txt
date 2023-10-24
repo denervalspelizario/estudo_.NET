@@ -1,0 +1,14 @@
+D:\repositorio\estudo_.NET\01_Introducao_.NET\TiposDados04\TiposDados04\bin\Debug\net6.0\TiposDados04.exe
+D:\repositorio\estudo_.NET\01_Introducao_.NET\TiposDados04\TiposDados04\bin\Debug\net6.0\TiposDados04.deps.json
+D:\repositorio\estudo_.NET\01_Introducao_.NET\TiposDados04\TiposDados04\bin\Debug\net6.0\TiposDados04.runtimeconfig.json
+D:\repositorio\estudo_.NET\01_Introducao_.NET\TiposDados04\TiposDados04\bin\Debug\net6.0\TiposDados04.dll
+D:\repositorio\estudo_.NET\01_Introducao_.NET\TiposDados04\TiposDados04\bin\Debug\net6.0\TiposDados04.pdb
+D:\repositorio\estudo_.NET\01_Introducao_.NET\TiposDados04\TiposDados04\obj\Debug\net6.0\TiposDados04.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\estudo_.NET\01_Introducao_.NET\TiposDados04\TiposDados04\obj\Debug\net6.0\TiposDados04.AssemblyInfoInputs.cache
+D:\repositorio\estudo_.NET\01_Introducao_.NET\TiposDados04\TiposDados04\obj\Debug\net6.0\TiposDados04.AssemblyInfo.cs
+D:\repositorio\estudo_.NET\01_Introducao_.NET\TiposDados04\TiposDados04\obj\Debug\net6.0\TiposDados04.csproj.CoreCompileInputs.cache
+D:\repositorio\estudo_.NET\01_Introducao_.NET\TiposDados04\TiposDados04\obj\Debug\net6.0\TiposDados04.dll
+D:\repositorio\estudo_.NET\01_Introducao_.NET\TiposDados04\TiposDados04\obj\Debug\net6.0\refint\TiposDados04.dll
+D:\repositorio\estudo_.NET\01_Introducao_.NET\TiposDados04\TiposDados04\obj\Debug\net6.0\TiposDados04.pdb
+D:\repositorio\estudo_.NET\01_Introducao_.NET\TiposDados04\TiposDados04\obj\Debug\net6.0\TiposDados04.genruntimeconfig.cache
+D:\repositorio\estudo_.NET\01_Introducao_.NET\TiposDados04\TiposDados04\obj\Debug\net6.0\ref\TiposDados04.dll
