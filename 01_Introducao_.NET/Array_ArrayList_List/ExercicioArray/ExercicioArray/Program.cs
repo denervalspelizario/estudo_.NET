@@ -7,6 +7,8 @@ string[] nomes = new string[5]; // array tipo string com 5 valores
 
 double[] notas = new double[5];
 
+Console.WriteLine("### Alunos ###");
+
 for (int i = 0; i < 5; i++)
 {
     Console.WriteLine("Infomar o nome do aluno");
@@ -25,13 +27,13 @@ for (int i = 0; i < 5; i++)
     notas[i] = nota;
 }
 
-
+// exibindo os nomes do array nomes
 foreach (string nome in nomes)
 {
     Console.WriteLine($"{nome}");
 }
 
-
+// exibindo as notas da array notas
 foreach (double nota in notas)
 {
     Console.WriteLine($"{nota}");
