@@ -1,0 +1,15 @@
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\bin\Debug\net7.0\TipoDateTime.exe
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\bin\Debug\net7.0\TipoDateTime.deps.json
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\bin\Debug\net7.0\TipoDateTime.runtimeconfig.json
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\bin\Debug\net7.0\TipoDateTime.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\bin\Debug\net7.0\TipoDateTime.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\obj\Debug\net7.0\TipoDateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\obj\Debug\net7.0\TipoDateTime.AssemblyInfoInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\obj\Debug\net7.0\TipoDateTime.AssemblyInfo.cs
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\obj\Debug\net7.0\TipoDateTime.csproj.CoreCompileInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\obj\Debug\net7.0\TipoDateTime.sourcelink.json
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\obj\Debug\net7.0\TipoDateTime.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\obj\Debug\net7.0\refint\TipoDateTime.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\obj\Debug\net7.0\TipoDateTime.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\obj\Debug\net7.0\TipoDateTime.genruntimeconfig.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\TipoDateTime\TipoDateTime\obj\Debug\net7.0\ref\TipoDateTime.dll

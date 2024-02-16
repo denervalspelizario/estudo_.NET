@@ -1,0 +1,15 @@
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\bin\Debug\net7.0\TiposDeDados2.exe
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\bin\Debug\net7.0\TiposDeDados2.deps.json
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\bin\Debug\net7.0\TiposDeDados2.runtimeconfig.json
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\bin\Debug\net7.0\TiposDeDados2.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\bin\Debug\net7.0\TiposDeDados2.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\obj\Debug\net7.0\TiposDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\obj\Debug\net7.0\TiposDeDados2.AssemblyInfoInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\obj\Debug\net7.0\TiposDeDados2.AssemblyInfo.cs
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\obj\Debug\net7.0\TiposDeDados2.csproj.CoreCompileInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\obj\Debug\net7.0\TiposDeDados2.sourcelink.json
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\obj\Debug\net7.0\TiposDeDados2.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\obj\Debug\net7.0\refint\TiposDeDados2.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\obj\Debug\net7.0\TiposDeDados2.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\obj\Debug\net7.0\TiposDeDados2.genruntimeconfig.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados2\TiposDeDados2\obj\Debug\net7.0\ref\TiposDeDados2.dll
