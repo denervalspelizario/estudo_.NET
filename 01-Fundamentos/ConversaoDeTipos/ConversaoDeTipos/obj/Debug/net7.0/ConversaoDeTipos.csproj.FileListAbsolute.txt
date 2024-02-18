@@ -1,0 +1,15 @@
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\bin\Debug\net7.0\ConversaoDeTipos.exe
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\bin\Debug\net7.0\ConversaoDeTipos.deps.json
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\bin\Debug\net7.0\ConversaoDeTipos.runtimeconfig.json
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\bin\Debug\net7.0\ConversaoDeTipos.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\bin\Debug\net7.0\ConversaoDeTipos.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.AssemblyInfoInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.AssemblyInfo.cs
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.csproj.CoreCompileInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.sourcelink.json
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\obj\Debug\net7.0\refint\ConversaoDeTipos.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.genruntimeconfig.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\ConversaoDeTipos\ConversaoDeTipos\obj\Debug\net7.0\ref\ConversaoDeTipos.dll
