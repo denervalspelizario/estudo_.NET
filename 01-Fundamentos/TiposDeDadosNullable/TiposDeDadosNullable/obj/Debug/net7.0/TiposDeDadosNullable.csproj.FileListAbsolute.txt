@@ -1,0 +1,15 @@
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\bin\Debug\net7.0\TiposDeDadosNullable.exe
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\bin\Debug\net7.0\TiposDeDadosNullable.deps.json
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\bin\Debug\net7.0\TiposDeDadosNullable.runtimeconfig.json
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\bin\Debug\net7.0\TiposDeDadosNullable.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\bin\Debug\net7.0\TiposDeDadosNullable.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\obj\Debug\net7.0\TiposDeDadosNullable.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\obj\Debug\net7.0\TiposDeDadosNullable.AssemblyInfoInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\obj\Debug\net7.0\TiposDeDadosNullable.AssemblyInfo.cs
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\obj\Debug\net7.0\TiposDeDadosNullable.csproj.CoreCompileInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\obj\Debug\net7.0\TiposDeDadosNullable.sourcelink.json
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\obj\Debug\net7.0\TiposDeDadosNullable.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\obj\Debug\net7.0\refint\TiposDeDadosNullable.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\obj\Debug\net7.0\TiposDeDadosNullable.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\obj\Debug\net7.0\TiposDeDadosNullable.genruntimeconfig.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDadosNullable\TiposDeDadosNullable\obj\Debug\net7.0\ref\TiposDeDadosNullable.dll

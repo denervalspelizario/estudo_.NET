@@ -1,0 +1,15 @@
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.exe
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.deps.json
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.runtimeconfig.json
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.AssemblyInfoInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.AssemblyInfo.cs
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.csproj.CoreCompileInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.sourcelink.json
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\refint\SaidaDeDados.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.genruntimeconfig.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\ref\SaidaDeDados.dll
